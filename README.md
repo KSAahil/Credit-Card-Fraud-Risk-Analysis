@@ -98,7 +98,7 @@ Contains:
 
 ## 📂 Project Structure
 ```
-├── Credit Card Fraud Risk Analysis by Kasif.pbix  # Power BI dashboard file
+├── Credit Card Fraud Risk Analysis by Kamran.pbix  # Power BI dashboard file
 ├── Credit Card Fraud Risk Analysis.csv            # Dataset
 ├── Credit Card Fraud Risk Analysis.pdf            # PDF summary
 ├── assets/
